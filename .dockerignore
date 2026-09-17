@@ -1,0 +1,17 @@
+__pycache__
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.venv/
+.git
+.gitignore
+.vscode
+.idea
+uploads/*
+!uploads/.gitkeep
+Dockerfile*
+docker-compose*.yml
+.DS_Store
